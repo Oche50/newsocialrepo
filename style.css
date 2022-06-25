@@ -39,7 +39,7 @@ body{
     font-size: .7rem;
     align-items: center;
     border-radius: 10px;
-    width: 323px;
+    width: ;
 }
 .rating-img{
     margin-right: 1rem;
@@ -168,17 +168,3 @@ body{
 
 
 
-/* @media(max-width: 375px){
-
-    .main-text h1{
-        font-size: 2rem;
-        margin-top: 1rem;
-        text-align: center;
-        background-image: url("/images/bg-pattern-top-mobile.svg");
-    }
-    .main-text p{
-        
-
-    }
-    
-} */
